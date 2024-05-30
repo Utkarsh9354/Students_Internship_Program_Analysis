@@ -21,9 +21,8 @@ The following key questions are addressed in this analysis:
 11.	What are the top three internship courses preferred by MBA students?
 12.	Which college has the highest enrollment in "Artificial Intelligence"?
 13.	Which course is the most popular among students?
-14.	How many students are there in each department?
-15.	Which college year has the highest enrollment?
-16.	How many graduated students have enrolled in "Artificial Intelligence"?
-17.	Which students have selected 'others' as their internship course and 'others' as their department, and what are their corresponding email addresses?
+14.	Which college year has the highest enrollment?
+15.	How many graduated students have enrolled in "Artificial Intelligence"?
+16.	Which students have selected 'others' as their internship course and 'others' as their department, and what are their corresponding email addresses?
 
 
