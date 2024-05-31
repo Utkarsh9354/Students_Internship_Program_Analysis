@@ -26,28 +26,27 @@ The following key questions are addressed in this analysis:
 16.	Which students have selected 'others' as their internship course and 'others' as their department, and what are their corresponding email addresses?
 
 # Summary of Findings
+•**Most Popular Course**: The most popular internship course overall is Artificial Intelligence, with 1,345 students enrolled.
 
-• The most popular internship course overall is Artificial Intelligence, with 1345 students enrolled.
+•**First-Year Students**: Among first-year students, **Artificial Intelligence** is also the most popular course, with 261 students enrolled.
 
-• Among first-year students, Artificial Intelligence is also the most popular course, with 261 students enrolled. 
+•**Highest Enrollment by Department**: The department with the highest total enrollment is MBA, with 986 students across all internship courses.
 
-• The department with the highest total enrollment is MBA, with 986 students across all internship courses.
+•**Highest Enrollment by Academic Year**: The academic year with the highest overall enrollment is the Third year, with 3,274 students enrolled.
 
-• The academic year with the highest overall enrollment is the Third year, with 3274 students enrolled. 
+•**Graduated Students**: For graduated students, Artificial Intelligence has the highest enrollment with 126 students.
 
-• For graduated students, Artificial Intelligence has the highest enrollment with 126 students. 
+•**Graduated Students Percentage**: The percentage of graduated students enrolled in internship courses is 7.27% of the total enrollment.
 
-• The percentage of graduated students enrolled in internship courses is 7.27% of the total enrollment. 
+•**Emerging Technologies**: In terms of emerging technologies, Cyber Security has the highest enrollment with 607 students, followed by IoT (401 students) and Robotics (242 students).
 
-• In terms of emerging technologies, Cyber Security has the highest enrollment with 607 students, followed by IoT (401 students) and Robotics (242 students).
+•**MBA Students Preferences**: Among MBA students, the top three preferred internship courses are Machine Learning (116 students), Data Science (111 students), and Artificial Intelligence (109 students).
 
-• Among MBA students, the top three preferred internship courses are Machine Learning (116 students), Data Science (111 students), and Artificial Intelligence (109 students). 
+•**Top College for AI Course**: The college with the highest enrollment in the Artificial Intelligence course is **Madanapalle Institute of Technology and Science**, with 9 students.
 
-• The college with the highest enrollment in the Artificial Intelligence course is Madanapalle Institute of Technology And Science, with 9 students.
+•**Top 5 Internship Courses**: The top 5 internship courses in terms of overall enrollment are Artificial Intelligence, Machine Learning, Data Science, Digital Marketing, and Android App Development.
 
-•The top 5 internship courses in terms of overall enrollment are Artificial Intelligence, Machine Learning, Data Science, Digital Marketing, and Android App Development.
-
-•The average enrollment across departments ranges from 32.59 students (Civil) to 34.89 students (BBA).
+•**Average Enrollment Across Departments**: The average enrollment across departments ranges from 32.59 students (Civil) to 34.89 students (BBA).
 
 # Limitations
 
