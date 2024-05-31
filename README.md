@@ -49,6 +49,13 @@ The following key questions are addressed in this analysis:
 
 •The average enrollment across departments ranges from 32.59 students (Civil) to 34.89 students (BBA).
 
+# Limitations
+
+•	The dataset may not capture the full range of student preferences and trends, as it is limited to the responses collected from a specific Google Form. The form responses were collected from students across different colleges nationwide, but there might be additional preferences or trends among students who did not participate in the survey.
+
+•	The analysis of "others" selections in courses and departments is limited to the specific options provided in the form. The "others" category does not provide detailed information about the specific courses or departments these students are interested in, leading to potential gaps in understanding student preferences.
+
+
 
 
 
