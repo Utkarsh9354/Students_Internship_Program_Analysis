@@ -54,7 +54,7 @@ The following key questions are addressed in this analysis:
 
 •	The analysis of "others" selections in courses and departments is limited to the specific options provided in the form. The "others" category does not provide detailed information about the specific courses or departments these students are interested in, leading to potential gaps in understanding student preferences.
 
-
+•	For security and privacy reasons, the main personal data of the students collected from Google Forms has not been included in the repository. Instead, the repository contains the resulting datasets from those queries. This ensures compliance with privacy regulations but limits the ability to perform analyses that require personal data.
 
 
 
